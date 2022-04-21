@@ -1,6 +1,6 @@
 {
   "name": "nave",
-  "version": "3.3.1",
+  "version": "master",
   "repo": "isaacs/nave",
   "description": "A pointer to https://github.com/isaacs/nave",
   "global": "1",
