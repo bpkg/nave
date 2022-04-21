@@ -1,6 +1,7 @@
 {
   "name": "nave",
   "version": "3.3.1",
+  "repo": "isaacs/nave",
   "description": "A pointer to https://github.com/isaacs/nave",
   "global": "1",
   "install": "install -b nave.sh ${PREFIX:-/usr/local}/bin/nave",
